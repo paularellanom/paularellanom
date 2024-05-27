@@ -12,7 +12,7 @@
 
 - 🧑‍🏫 Ethical Hacker  [Linux, Windows, Mac OS](https://www.linkedin.com/in/paul-arellano-47a885197/)
 
-- 
+ 
 <br>
 
 
@@ -21,6 +21,7 @@
 <p align="center">
 <a href="https://github.com/ArisGuimera">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paularellanom&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paularellanom&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
