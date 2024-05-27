@@ -10,7 +10,9 @@
 
 - 📲 Mobile developer [Developed_Apps](https://github.com/paularellanom/Flutter_Dev_apps)
 
-- 🧑‍🏫 Ethical Hacker 
+- 🧑‍🏫 Ethical Hacker  [Linux, Windows, Mac OS](https://www.linkedin.com/in/paul-arellano-47a885197/)
+
+- 
 <br>
 
 
