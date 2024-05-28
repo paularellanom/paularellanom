@@ -10,7 +10,11 @@
 
 - 📲 Mobile developer [Developed_Apps](https://github.com/paularellanom/Flutter_Dev_apps)
 
-- 🧑‍🏫 Ethical Hacker  [Linux, Windows, Mac OS]()
+- 🧑‍🏫 Ethical Hacker
+- 📗 Artículos:
+  
+  [ROM LineageOS 21](https://github.com/paularellanom/rom_lineageOS21)
+  
 
  
 <br>
