@@ -11,11 +11,24 @@
 - 📲 Mobile developer
 
   [Developed_Apps](https://github.com/paularellanom/Flutter_Dev_apps)
+
+  -webView
+
+  -widget_app
+
+  -toktik
+
+  -yes_no_app
+
+  -open_map
+
+  -flutter_restapi_countries
+
   
 
 - 🧑‍🏫 Ethical Hacker
   
-- 📗 Artículos:
+  📗 Artículos:
   
   [ROM LineageOS 21](https://github.com/paularellanom/rom_lineageOS21)
   
