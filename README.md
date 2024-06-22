@@ -12,36 +12,36 @@
 ## Sobre mi
 
 
-- 📲 Mobile developer
+### - 📲 Mobile developer
 
   [Developed_Apps](https://github.com/paularellanom/Flutter_Dev_apps)
 
-  -webView
+  - webView
 
-  -widget_app
+  - widget_app
 
-  -toktik
+  - toktik
 
-  -yes_no_app
+  - yes_no_app
 
-  -open_map
+  - open_map
 
-  -flutter_restapi_countries
+  - flutter_restapi_countries
 
   
 
-- 🧑‍🏫 Ethical Hacker
+ ### - 🧑‍🏫 Ethical Hacker
   
   📗 Artículos:
   
-  [ROM LineageOS 21](https://github.com/paularellanom/rom_lineageOS21)
+  - [ROM LineageOS 21](https://github.com/paularellanom/rom_lineageOS21)
   
 
  
 <br>
 
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
