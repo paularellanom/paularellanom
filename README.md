@@ -30,7 +30,7 @@
 
   
 
- ### - 🧑‍🏫 Ethical Hacker
+ ### - 👨‍💻 Ethical Hacker
   
   📗 Artículos:
   
