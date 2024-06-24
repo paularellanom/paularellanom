@@ -1,15 +1,16 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/paularellanom">Paúl Arellano</a> 👋</h1>
-
+<br>
 
 ![Designer4 1](https://github.com/paularellanom/paularellanom/assets/155793504/2f2d616a-1f4b-4277-94b6-8349b42fe236)
 
- 
-
-
 </div>
 
+<br>
+
 ## Sobre mi
+
+<br>
 
 
 ### - 📲 Mobile developer
@@ -36,8 +37,11 @@
   
   - [ROM LineageOS 21](https://github.com/paularellanom/rom_lineageOS21)
   
+<br>
 
- 
+## Curso completo de 5 horas y 45 lecciones para aprender a trabajar con Git & GitHub desde cero y para principiantes 
+https://github.com/paularellanom/hello-git-mouredev
+
 <br>
 
 
