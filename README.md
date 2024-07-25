@@ -8,7 +8,7 @@
 
 ##
 
-### - 📲 Mobile developer
+### 📲 Mobile developer
 
   [Developed_Apps](https://github.com/paularellanom/Flutter_Dev_apps)
 
@@ -26,7 +26,7 @@
 
 <br>
 
- ### - 👨‍💻 Ethical Hacker
+ ### 👨‍💻 Ethical Hacker
   
   📗 Artículos:
   
