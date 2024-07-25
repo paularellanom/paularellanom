@@ -8,10 +8,9 @@
 
 <br>
 
-## Sobre mi
+##
 
 <br>
-
 
 ### - 📲 Mobile developer
 
@@ -29,28 +28,30 @@
 
   - flutter_restapi_countries
 
-  
+<br>
 
  ### - 👨‍💻 Ethical Hacker
   
   📗 Artículos:
   
   - [ROM LineageOS 21](https://github.com/paularellanom/rom_lineageOS21)
+
+<br>
+
+ ### Python - Backend
+ https://github.com/paularellanom/PYTHON-backend 
   
 <br>
 
-## Curso completo de 5 horas y 45 lecciones para aprender a trabajar con Git & GitHub desde cero y para principiantes 
+### Curso completo de 5 horas y 45 lecciones para aprender a trabajar con Git & GitHub desde cero y para principiantes 
 https://github.com/mouredev/hello-git
 
 <br>
 
-<br>
-
-## Curso para aprender el lenguaje de programación Python desde cero y para principiantes
+### Curso para aprender el lenguaje de programación Python desde cero y para principiantes
 https://github.com/mouredev/Hello-Python
 
 <br>
-
 
 ## ⚙️ &nbsp;GitHub Analytics
 
