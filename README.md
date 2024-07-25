@@ -6,11 +6,7 @@
 
 </div>
 
-<br>
-
 ##
-
-<br>
 
 ### - 📲 Mobile developer
 
@@ -40,13 +36,13 @@
 
  ### Python - Backend
  https://github.com/paularellanom/PYTHON-backend 
-  
+
+##
+
 <br>
 
 ### Curso completo de 5 horas y 45 lecciones para aprender a trabajar con Git & GitHub desde cero y para principiantes 
 https://github.com/mouredev/hello-git
-
-<br>
 
 ### Curso para aprender el lenguaje de programación Python desde cero y para principiantes
 https://github.com/mouredev/Hello-Python
