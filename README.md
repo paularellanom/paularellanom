@@ -40,7 +40,7 @@
 <br>
 
 ## Curso completo de 5 horas y 45 lecciones para aprender a trabajar con Git & GitHub desde cero y para principiantes 
-https://github.com/paularellanom/hello-git-mouredev
+https://github.com/mouredev/hello-git
 
 <br>
 
