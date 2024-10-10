@@ -62,7 +62,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
 <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi.svg" title="Fastapi" alt="Fastapi" width="40" height="40"/>
-<img src="https://github.com/pheralb/svgl/blob/main/static/library/reflex-dark.svg" title="Reflex" alt="Reflex" width="40" height="40"/>
+<img src="https://reflex.dev/logos/light/reflex.svg" title="Reflex" alt="Reflex" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" title="Cisco" width="40" height="40"/>
 <img src="https://www.kali.org/images/tool-logo-metasploit.svg" title="Metasploit" alt="Metasploit" width="40" height="40"/>  
 </p>
