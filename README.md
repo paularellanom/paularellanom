@@ -36,11 +36,11 @@
 
 ### Operating Systems
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" alt="fedora" width="40" height="40" />
-<img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/popos.svg" title="PopOs" alt="PopOs" width="40" height="40" /> 
-<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40" />
-<img src="https://www.vectorlogo.zone/logos/suse/suse-icon.svg" alt="suse" width="40" height="40" />
-<img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="arch" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" title="Fedora" alt="Fedora" width="40" height="40"/>
+<img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/popos.svg" title="PopOs" alt="PopOs" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/suse/suse-icon.svg" title="Suse" alt="Suse" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" title="Arch" alt="Arch" width="40" height="40"/>
 </p>
 
 <br>
@@ -48,7 +48,7 @@
 ### My Languages
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50" height="50" />
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" title="Dart" alt="Dart" width="40" height="40"/>
 </p>
 
 <br>
@@ -56,12 +56,14 @@
 ### Technologies & Skills
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-<img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi.svg" alt="fastapi" width="40" height="40" />
-<img src="https://github.com/pheralb/svgl/blob/main/static/library/reflex-dark.svg" alt="reflex" width="40" height="40" />
-<img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi.svg" title="Fastapi" alt="Fastapi" width="40" height="40"/>
+<img src="https://github.com/pheralb/svgl/blob/main/static/library/reflex-dark.svg" title="Reflex" alt="Reflex" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" title="Cisco" width="40" height="40"/>
+<img src="https://www.kali.org/images/tool-logo-metasploit.svg" title="Metasploit" alt="Metasploit" width="40" height="40"/>
+  
 </p>
 
 <br>
