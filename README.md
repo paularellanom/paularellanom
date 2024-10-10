@@ -42,6 +42,7 @@
 <img src="https://www.vectorlogo.zone/logos/suse/suse-icon.svg" title="Suse" alt="Suse" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" title="Arch" alt="Arch" width="40" height="40"/>
 <img src="https://www.kali.org/images/kali-dragon-icon.svg" title="Kali" alt="Kali" width="40" height="40"/>
+  <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Link-List-Icons-Microsoft-365?wid=40&hei=40" title="Microsoft" alt="Microsoft" width="40" height="40"/>
 </p>
 
 <br>
