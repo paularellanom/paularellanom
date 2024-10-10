@@ -41,6 +41,7 @@
 <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/suse/suse-icon.svg" title="Suse" alt="Suse" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" title="Arch" alt="Arch" width="40" height="40"/>
+<img src="https://www.kali.org/images/kali-dragon-icon.svg" title="Kali" alt="Kali" width="40" height="40"/>
 </p>
 
 <br>
@@ -62,8 +63,7 @@
 <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi.svg" title="Fastapi" alt="Fastapi" width="40" height="40"/>
 <img src="https://github.com/pheralb/svgl/blob/main/static/library/reflex-dark.svg" title="Reflex" alt="Reflex" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" title="Cisco" width="40" height="40"/>
-<img src="https://www.kali.org/images/tool-logo-metasploit.svg" title="Metasploit" alt="Metasploit" width="40" height="40"/>
-  
+<img src="https://www.kali.org/images/tool-logo-metasploit.svg" title="Metasploit" alt="Metasploit" width="40" height="40"/>  
 </p>
 
 <br>
