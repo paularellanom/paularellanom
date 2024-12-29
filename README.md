@@ -11,12 +11,14 @@
 
 # Proyectos Desarrollados:
 
+🌐 Web:
+
 <a href="https://elcolibri.nl/"><img src="https://github.com/user-attachments/assets/3723ad82-04ed-49d9-b5fc-38afbfe4386e" style="height: 60%; width:60%;"/></a>
 
 
 ### 📲 Mobile:
 
-  [Developed_Apps](https://github.com/paularellanom/Flutter_Dev_apps)
+  [Apps:](https://github.com/paularellanom/Flutter_Dev_apps)
 
   - webView
 
