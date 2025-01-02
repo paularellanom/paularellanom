@@ -13,7 +13,7 @@
 
 🌐 Web:
 
-<a href="https://elcolibri.nl/"><img src="https://github.com/user-attachments/assets/3723ad82-04ed-49d9-b5fc-38afbfe4386e" style="height: 60%; width:60%;"/></a>
+<a href="https://elcolibri.nl/"><img src="https://github.com/user-attachments/assets/6b3dff58-c0cb-4446-9736-d38f073f4d55" style="height: 60%; width:60%;"/></a>
 
 
 ### 📲 Mobile:
