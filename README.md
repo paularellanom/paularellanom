@@ -48,7 +48,7 @@
 
 ### Django:
 
-- [Django](https://github.com/paularellanom/django_docentes.git)
+- [Django](https://github.com/paularellanom/proyecto_docentes.git)
 
 <br>
 
