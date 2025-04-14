@@ -34,6 +34,12 @@
 
 <br>
 
+### sqlalchemy:
+
+- [sqlalchemy](https://github.com/paularellanom/sqlalchemy.git)
+
+<br>
+
 ### Mysql:
 
 - [BIBLIOTECA](https://github.com/paularellanom/mysql.git)
