@@ -15,6 +15,14 @@
 
 <a href="https://elcolibri.nl/"><img src="https://github.com/user-attachments/assets/6b3dff58-c0cb-4446-9736-d38f073f4d55" style="height: 60%; width:60%;"/></a>
 
+### 👨‍💻 Void Linux dotfiles:
+
+  [Void Linux dotfiles:](https://github.com/paularellanom/my-public-dots.git)
+
+  - "Initial public release of my Void Linux dotfiles"
+
+<br>
+
 
 ### 📲 Mobile:
 
@@ -62,13 +70,14 @@
 
 ### Operating Systems
 <p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Void_Linux_logo.svg" title="Void - My main system" alt="Void" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" title="Fedora" alt="Fedora" width="40" height="40"/>
 <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/popos.svg" title="PopOs" alt="PopOs" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/suse/suse-icon.svg" title="Suse" alt="Suse" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" title="Arch" alt="Arch" width="40" height="40"/>
 <img src="https://www.kali.org/images/kali-dragon-icon.svg" title="Kali" alt="Kali" width="40" height="40"/>
-  <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Link-List-Icons-Microsoft-365?wid=40&hei=40" title="Microsoft" alt="Microsoft" width="40" height="40"/>
+<img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Link-List-Icons-Microsoft-365?wid=40&hei=40" title="Microsoft" alt="Microsoft" width="40" height="40"/>
 </p>
 
 <br>
