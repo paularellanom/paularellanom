@@ -68,9 +68,9 @@
 
 <br>
 
-### Operating Systems
+### Operating Systems - "Void - My main system"
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Void_Linux_logo.svg" title="Void - My main system" alt="Void" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Void_Linux_logo.svg" title="Void - My main system" alt="Void" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" title="Fedora" alt="Fedora" width="40" height="40"/>
 <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/popos.svg" title="PopOs" alt="PopOs" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
