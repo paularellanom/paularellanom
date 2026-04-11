@@ -13,9 +13,11 @@
 
 🌐 Web - Reflex (python):
 
-<a href="https://elcolibri.nl/"><img src="https://github.com/user-attachments/assets/6b3dff58-c0cb-4446-9736-d38f073f4d55" style="height: 60%; width:60%;"/></a>
+<a href="https://elcolibri.nl/"><img src="https://github.com/user-attachments/assets/6b3dff58-c0cb-4446-9736-d38f073f4d55" style="height: 30%; width:30%;"/></a>
 
-### 👨‍💻 Void Linux dotfiles:
+<br>
+
+### 👨‍💻 Void Linux Sway dotfiles:
 
   [Void Linux dotfiles:](https://github.com/paularellanom/my-public-dots.git)
 
